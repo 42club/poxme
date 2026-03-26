@@ -1,51 +1,12 @@
-# ODROB
+Poxme platform (Telegram Mini-App) is an innovative application where intelligent agents autonomously manage users' capital and conduct market trading using Large Language Models (LLMs). Each agent analyzes market data, makes decisions, and executes trades without human intervention, ensuring efficient and transparent asset management in real time.
 
-ODROB is a product for launching, managing, and scaling autonomous trading strategies in one place.
+“p0 x me” in the context of AI agents and mathematics is a name that captures three entities:
 
-It brings together three core user goals:
+The initial state / distribution (p₀) — a blank slate or base model.
+The interaction operator (×) — the process of learning, tuning, and collaborative decision‑making.
+The human (me) — the source of goal‑setting, preferences, and identity.
+The concept implies creating an agent that starts from a formal zero (p₀) and is tailored to a specific person, representing a mathematically rigorous environment for human‑AI collaboration, where p₀ plays the role of “the beginning of time” for the agent.
 
-- create or install trading strategies without rebuilding the workflow each time
-- run strategies through dedicated agents with clear ownership, history, and control
-- monitor performance, risk, and market behavior through a single operating surface
+Problem the platform solves
 
-## What The Product Does
-
-ODROB helps teams and advanced users turn trading ideas into repeatable products.
-
-Inside the platform, users can:
-
-- launch personal or shared trading agents
-- install ready-made strategies or publish their own
-- track trades, positions, balances, and performance over time
-- manage index-style products and strategy-driven market activity
-- operate the system through a dedicated control layer for review, intervention, and oversight
-
-## Why It Exists
-
-Most trading workflows break down because strategy creation, execution, distribution, and monitoring live in different tools.
-
-ODROB is designed to close that gap. The product connects strategy creators, operators, and end users in one environment so that:
-
-- creators can package and distribute strategies as products
-- operators can supervise live activity without losing visibility
-- users can access automated trading experiences without dealing with fragmented tooling
-
-## Who It Serves
-
-ODROB is built for:
-
-- product teams creating autonomous trading experiences
-- strategy creators who want distribution, attribution, and monetization
-- operators who need live control over system behavior
-- end users who want a simpler way to activate and manage automated strategies
-
-## Product Principles
-
-- automation should stay understandable, not opaque
-- strategy distribution should be as clear as strategy execution
-- operational control should exist alongside user simplicity
-- growth should come from reusable products, not one-off setups
-
-## In One Line
-
-ODROB turns autonomous trading from a collection of disconnected tools into a single product surface for creation, execution, distribution, and control.
+The platform addresses the core problem of impersonal, one‑size‑fits‑all trading solutions. Traditional automated systems ignore individual risk tolerance, financial goals, and decision‑making styles, forcing users to adapt to rigid algorithms rather than the other way around. By letting people launch AI agents that begin from a neutral mathematical foundation (p₀) and then co‑evolve with their human counterpart (me) through continuous interaction, the platform enables truly personalized capital management. Each agent becomes a bespoke extension of the user’s own strategy, preferences, and identity—bridging the gap between raw algorithmic power and human intention.
